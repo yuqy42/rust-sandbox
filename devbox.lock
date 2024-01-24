@@ -1,0 +1,11 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "rustup@latest": {
+      "last_modified": "2024-01-14T03:55:27Z",
+      "plugin_version": "0.0.1",
+      "resolved": "github:NixOS/nixpkgs/dd5621df6dcb90122b50da5ec31c411a0de3e538#rustup",
+      "version": "1.26.0"
+    }
+  }
+}
